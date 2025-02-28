@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1,
+  "date": "2025-02-28",
+  "questions": [
+      {
+        "lyric": "Living is easy with eyes closed, misunderstanding all you see.",
+        "songs": [
+          "Let It Be",
+          "Hey Jude",
+          "While My Guitar Gently Weeps",
+          "Strawberry Fields Forever"
+        ],
+        "correctAnswer": "Strawberry Fields Forever"
+      },
+      {
+        "lyric": "Woke up, fell out of bed, dragged a comb across my head.",
+        "songs": [
+          "A Day in the Life",
+          "Strawberry Fields Forever",
+          "Hey Jude",
+          "While My Guitar Gently Weeps"
+        ],
+        "correctAnswer": "A Day in the Life"
+      },
+      {
+        "lyric": "Little darling, the smile's returning to their faces.",
+        "songs": [
+          "Eleanor Rigby",
+          "Here Comes the Sun",
+          "Come Together",
+          "Blackbird"
+        ],
+        "correctAnswer": "Here Comes the Sun"
+      },
+      {
+        "lyric": "Take a sad song and make it better.",
+        "songs": [
+          "Blackbird",
+          "A Day in the Life",
+          "Come Together",
+          "Hey Jude"
+        ],
+        "correctAnswer": "Hey Jude"
+      },
+      {
+        "lyric": "All the lonely people, where do they all belong?",
+        "songs": [
+          "Lucy in the Sky with Diamonds",
+          "Eleanor Rigby",
+          "Come Together",
+          "Hey Jude"
+        ],
+        "correctAnswer": "Eleanor Rigby"
+      },
+      {
+        "lyric": "You were only waiting for this moment to arise.",
+        "songs": [
+          "While My Guitar Gently Weeps",
+          "Blackbird",
+          "Let It Be",
+          "Come Together"
+        ],
+        "correctAnswer": "Blackbird"
+      },
+      {
+        "lyric": "Follow her down to a bridge by a fountain where rocking horse people eat marshmallow pies.",
+        "songs": [
+          "Eleanor Rigby",
+          "While My Guitar Gently Weeps",
+          "Blackbird",
+          "Lucy in the Sky with Diamonds"
+        ],
+        "correctAnswer": "Lucy in the Sky with Diamonds"
+      },
+      {
+        "lyric": "One and one and one is three.",
+        "songs": [
+          "Come Together",
+          "Let It Be",
+          "While My Guitar Gently Weeps",
+          "Lucy in the Sky with Diamonds"
+        ],
+        "correctAnswer": "Come Together"
+      },
+      {
+        "lyric": "There will be an answer, let it be.",
+        "songs": [
+          "Eleanor Rigby",
+          "A Day in the Life",
+          "Let It Be",
+          "Lucy in the Sky with Diamonds"
+        ],
+        "correctAnswer": "Let It Be"
+      },
+      {
+        "lyric": "I look at the world and I notice it’s turning, while my guitar gently weeps.",
+        "songs": [
+          "While My Guitar Gently Weeps",
+          "Strawberry Fields Forever",
+          "Here Comes the Sun",
+          "A Day in the Life"
+        ],
+        "correctAnswer": "While My Guitar Gently Weeps"
+      }
+    ]
+}
